@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/exam.dir/main.cpp.o  -o exam  -L/home/uos/Desktop/devexam/exam3/src/../lib -Wl,-rpath,/home/uos/Desktop/devexam/exam3/src/../lib -lpthread -Wl,-Bstatic -lgtest -lgmock -Wl,-Bdynamic 

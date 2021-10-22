@@ -1,0 +1,5 @@
+/home/uos/Desktop/devexam/exam3/CMakeFiles/rebuild_cache.dir
+/home/uos/Desktop/devexam/exam3/CMakeFiles/edit_cache.dir
+/home/uos/Desktop/devexam/exam3/src/CMakeFiles/rebuild_cache.dir
+/home/uos/Desktop/devexam/exam3/src/CMakeFiles/exam.dir
+/home/uos/Desktop/devexam/exam3/src/CMakeFiles/edit_cache.dir
